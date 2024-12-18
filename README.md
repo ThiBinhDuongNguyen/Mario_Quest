@@ -42,7 +42,11 @@ Welcome to **Pixel Quest: Coin Frenzy!**, a thrilling platformer inspired by cla
 **3.Keep Going:**
 
 - When the timer runs out, view your score and jump back in to beat your high score!
-  
+
+**4.Sreenshot**
+
+![Screenshot 2024-12-18 123730](https://github.com/user-attachments/assets/a2602260-c1ac-4c8d-8efe-43fd9dfde26c)
+
 **🔮 Planned Enhancements**
 
 Excited for more? Here’s what’s coming soon to **Pixel Quest: Coin Frenzy!:**
